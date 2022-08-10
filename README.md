@@ -1,7 +1,7 @@
 ![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
 
 ## printf()
-This printf project is a collaboration between Oliver Samuel and Alimi Kehinde Sherifah actual students of Software Engineering at ALX, where a function named "_printf" imitates the actual "printf" command located in the stdio.h library. 
+This printf project is a collaboration between Willochs Ojigbo and Tochukwu Nzewi actual students of Software Engineering at ALX, where a function named "_printf" imitates the actual "printf" command located in the stdio.h library. 
 It contains some of the basic features and functions found in the manual 3 of "printf".
 
 _printf() is a function that performs formatted output conversion and print data. Its prototype is the following:
