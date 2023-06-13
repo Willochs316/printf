@@ -328,7 +328,7 @@ Function That Returns The Amount Of Indetifiers.
 ------------
 
 ### Authors
-Willochs Ojigbo and Tochukwu Nzewi.
+Willochs Ojigbo
 
 ------------
 
